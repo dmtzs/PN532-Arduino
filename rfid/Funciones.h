@@ -1,0 +1,2 @@
+void inicio();
+void motor();
