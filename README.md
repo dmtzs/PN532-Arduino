@@ -25,7 +25,7 @@
   - [Specifications](#Specifications)
 - [Sensor´s and materials list used](#sensors-and-materials-list-used)
 - [Connection diagram](#connection-diagram)
-- [Donations](#We-know-this-is-a-payment-project-but-consider-a-donation-for-do-more-opensource-code!!)
+- [Donations](#Enjoying-this-app?-Consider-a-donation!!)
 
 ## The project
 Code for create an lector of RFID with an arduino. This code only read the tag of the RFID key so you can perform an action like authorize a card to do something and not authorize a card, etc.
