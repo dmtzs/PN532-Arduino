@@ -1,5 +1,5 @@
 <p align="center">
-  <!--img width="300" src="" alt="logo"-->
+  <img width="300" src="coverImage.png" alt="logo">
   <h1 align="center" style="margin: 0 auto 0 auto;">RFID</h1>
   <h5 align="center" style="margin: 0 auto 0 auto;">RFID with Arduino</h5>
 </p>
